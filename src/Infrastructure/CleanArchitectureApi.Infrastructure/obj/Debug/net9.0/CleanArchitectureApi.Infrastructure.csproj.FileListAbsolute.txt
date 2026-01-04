@@ -1,0 +1,38 @@
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Infrastructure.deps.json
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Infrastructure.runtimeconfig.json
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Infrastructure.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Infrastructure.pdb
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Application.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Domain.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Domain.pdb
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Application.pdb
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.AssemblyInfo.cs
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArc.C2DC49D9.Up2Date
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/refint/CleanArchitectureApi.Infrastructure.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.pdb
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.genruntimeconfig.cache
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/ref/CleanArchitectureApi.Infrastructure.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Infrastructure.deps.json
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Infrastructure.runtimeconfig.json
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Infrastructure.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Infrastructure.pdb
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Application.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Domain.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Domain.pdb
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/bin/Debug/net9.0/CleanArchitectureApi.Application.pdb
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.csproj.AssemblyReference.cache
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.AssemblyInfoInputs.cache
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.AssemblyInfo.cs
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArc.C2DC49D9.Up2Date
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/refint/CleanArchitectureApi.Infrastructure.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.pdb
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/CleanArchitectureApi.Infrastructure.genruntimeconfig.cache
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/Debug/net9.0/ref/CleanArchitectureApi.Infrastructure.dll

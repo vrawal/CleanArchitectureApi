@@ -1,0 +1,405 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/tests/UnitTests/CleanArchitectureApi.UnitTests/CleanArchitectureApi.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Application/CleanArchitectureApi.Application/CleanArchitectureApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Application/CleanArchitectureApi.Application/CleanArchitectureApi.Application.csproj",
+        "projectName": "CleanArchitectureApi.Application",
+        "projectPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Application/CleanArchitectureApi.Application/CleanArchitectureApi.Application.csproj",
+        "packagesPath": "/Users/rawal/.nuget/packages/",
+        "outputPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Application/CleanArchitectureApi.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rawal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/opt/homebrew/Cellar/dotnet/9.0.5/libexec/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Domain/CleanArchitectureApi.Domain/CleanArchitectureApi.Domain.csproj": {
+                "projectPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Domain/CleanArchitectureApi.Domain/CleanArchitectureApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.5/libexec/sdk/9.0.106/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Domain/CleanArchitectureApi.Domain/CleanArchitectureApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Domain/CleanArchitectureApi.Domain/CleanArchitectureApi.Domain.csproj",
+        "projectName": "CleanArchitectureApi.Domain",
+        "projectPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Domain/CleanArchitectureApi.Domain/CleanArchitectureApi.Domain.csproj",
+        "packagesPath": "/Users/rawal/.nuget/packages/",
+        "outputPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Domain/CleanArchitectureApi.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rawal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/opt/homebrew/Cellar/dotnet/9.0.5/libexec/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.5/libexec/sdk/9.0.106/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/CleanArchitectureApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/CleanArchitectureApi.Infrastructure.csproj",
+        "projectName": "CleanArchitectureApi.Infrastructure",
+        "projectPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/CleanArchitectureApi.Infrastructure.csproj",
+        "packagesPath": "/Users/rawal/.nuget/packages/",
+        "outputPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rawal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/opt/homebrew/Cellar/dotnet/9.0.5/libexec/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Application/CleanArchitectureApi.Application/CleanArchitectureApi.Application.csproj": {
+                "projectPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Application/CleanArchitectureApi.Application/CleanArchitectureApi.Application.csproj"
+              },
+              "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Domain/CleanArchitectureApi.Domain/CleanArchitectureApi.Domain.csproj": {
+                "projectPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Domain/CleanArchitectureApi.Domain/CleanArchitectureApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.20, )"
+            },
+            "Hangfire.SqlServer": {
+              "target": "Package",
+              "version": "[1.8.20, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "Polly.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.8.58, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.5/libexec/sdk/9.0.106/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/tests/UnitTests/CleanArchitectureApi.UnitTests/CleanArchitectureApi.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/tests/UnitTests/CleanArchitectureApi.UnitTests/CleanArchitectureApi.UnitTests.csproj",
+        "projectName": "CleanArchitectureApi.UnitTests",
+        "projectPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/tests/UnitTests/CleanArchitectureApi.UnitTests/CleanArchitectureApi.UnitTests.csproj",
+        "packagesPath": "/Users/rawal/.nuget/packages/",
+        "outputPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/tests/UnitTests/CleanArchitectureApi.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rawal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/opt/homebrew/Cellar/dotnet/9.0.5/libexec/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Application/CleanArchitectureApi.Application/CleanArchitectureApi.Application.csproj": {
+                "projectPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Application/CleanArchitectureApi.Application/CleanArchitectureApi.Application.csproj"
+              },
+              "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Domain/CleanArchitectureApi.Domain/CleanArchitectureApi.Domain.csproj": {
+                "projectPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Domain/CleanArchitectureApi.Domain/CleanArchitectureApi.Domain.csproj"
+              },
+              "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/CleanArchitectureApi.Infrastructure.csproj": {
+                "projectPath": "/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/Infrastructure/CleanArchitectureApi.Infrastructure/CleanArchitectureApi.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.5.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.5/libexec/sdk/9.0.106/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,295 @@
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/appsettings.json
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/appsettings.Production.json
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.WebApi.staticwebassets.endpoints.json
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.WebApi.exe
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.WebApi.deps.json
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.WebApi.runtimeconfig.json
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.WebApi.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.WebApi.pdb
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/AutoMapper.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Azure.Core.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Azure.Identity.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/BCrypt.Net-Next.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/BouncyCastle.Cryptography.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/FluentValidation.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Hangfire.AspNetCore.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Hangfire.Core.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Hangfire.NetCore.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Hangfire.SqlServer.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/MailKit.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/MediatR.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/MediatR.Contracts.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.Versioning.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Http.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Http.Polly.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/MimeKit.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Newtonsoft.Json.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Polly.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Polly.Core.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Polly.Extensions.Http.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/RabbitMQ.Client.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/StackExchange.Redis.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.ClientModel.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Drawing.Common.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Formats.Asn1.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Memory.Data.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Runtime.Caching.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Security.Permissions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Text.Json.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Windows.Extensions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/ca/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/de/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/es/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/fa/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/fr/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/nb/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/nl/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/pt-BR/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/pt-PT/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/pt/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/sv/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/tr-TR/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/zh-TW/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/zh/Hangfire.Core.resources.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.Application.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.Domain.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.Infrastructure.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.Application.pdb
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.Infrastructure.pdb
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.Domain.pdb
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.csproj.AssemblyReference.cache
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.AssemblyInfoInputs.cache
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.AssemblyInfo.cs
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.csproj.CoreCompileInputs.cache
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/scopedcss/bundle/CleanArchitectureApi.WebApi.styles.css
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets/msbuild.CleanArchitectureApi.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets/msbuild.CleanArchitectureApi.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets/msbuild.build.CleanArchitectureApi.WebApi.props
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CleanArchitectureApi.WebApi.props
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CleanArchitectureApi.WebApi.props
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets.pack.json
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets.upToDateCheck.txt
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArc.341D8AF1.Up2Date
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/refint/CleanArchitectureApi.WebApi.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.pdb
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.genruntimeconfig.cache
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/ref/CleanArchitectureApi.WebApi.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Asp.Versioning.Abstractions.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Asp.Versioning.Http.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Asp.Versioning.Mvc.dll
+C:/Users/Michael/Downloads/CleanArchitectureApi/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Asp.Versioning.Mvc.ApiExplorer.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/appsettings.Development.json
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/appsettings.json
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/appsettings.Production.json
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.WebApi.staticwebassets.endpoints.json
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.WebApi
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.WebApi.deps.json
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.WebApi.runtimeconfig.json
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.WebApi.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.WebApi.pdb
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Asp.Versioning.Abstractions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Asp.Versioning.Http.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Asp.Versioning.Mvc.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Asp.Versioning.Mvc.ApiExplorer.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/AutoMapper.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Azure.Core.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Azure.Identity.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/BouncyCastle.Cryptography.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/FluentValidation.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Hangfire.AspNetCore.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Hangfire.Core.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Hangfire.NetCore.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Hangfire.SqlServer.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/MailKit.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/MediatR.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/MediatR.Contracts.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.Versioning.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Http.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Http.Polly.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/MimeKit.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Pipelines.Sockets.Unofficial.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Polly.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Polly.Core.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Polly.Extensions.Http.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/RabbitMQ.Client.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/StackExchange.Redis.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.ClientModel.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Formats.Asn1.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Text.Json.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/ca/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/de/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/es/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/fa/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/fr/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/nb/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/nl/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/pt-BR/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/pt-PT/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/pt/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/sv/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/tr-TR/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/zh-TW/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/zh/Hangfire.Core.resources.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.Application.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.Domain.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.Infrastructure.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.Application.pdb
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.Infrastructure.pdb
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/bin/Debug/net9.0/CleanArchitectureApi.Domain.pdb
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.csproj.AssemblyReference.cache
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.AssemblyInfoInputs.cache
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.AssemblyInfo.cs
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.csproj.CoreCompileInputs.cache
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/scopedcss/bundle/CleanArchitectureApi.WebApi.styles.css
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets.build.json
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets.development.json
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets/msbuild.CleanArchitectureApi.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets/msbuild.CleanArchitectureApi.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets/msbuild.build.CleanArchitectureApi.WebApi.props
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CleanArchitectureApi.WebApi.props
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CleanArchitectureApi.WebApi.props
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArc.341D8AF1.Up2Date
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/refint/CleanArchitectureApi.WebApi.dll
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.pdb
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/CleanArchitectureApi.WebApi.genruntimeconfig.cache
+/Users/rawal/work/CleanArchitectureApi(.net 10)/CleanArchitectureApi/src/WebApi/CleanArchitectureApi.WebApi/obj/Debug/net9.0/ref/CleanArchitectureApi.WebApi.dll
