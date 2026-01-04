@@ -1,6 +1,6 @@
-# Clean Architecture API - .NET 10
+# Clean Architecture API - .NET 9
 
-A production-ready .NET 10 Web API built with Clean Architecture principles, featuring CQRS, comprehensive validation, JWT authentication, caching, message queuing, and more.
+A production-ready .NET 9 Web API built with Clean Architecture principles, featuring CQRS, comprehensive validation, JWT authentication, caching, message queuing, and more.
 
 ## 🏗️ Architecture
 
